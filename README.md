@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0941-sort-array-by-parity](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0978-valid-mountain-array) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [3582-find-indices-of-stable-mountains](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3582-find-indices-of-stable-mountains) |
 ## Hash Table
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+## Math
+|  |
+| ------- |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
