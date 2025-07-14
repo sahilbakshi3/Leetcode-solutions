@@ -45,15 +45,25 @@ public:
         // }
         // return head;
 
-        ListNode* temp = head, *prev = NULL;
+        // ListNode* temp = head, *prev = NULL;
 
-        while(temp != NULL){
-            ListNode* front = temp->next;
-            temp->next = prev;
-            prev = temp;
-            temp = front;
-        }
-        return prev;
+        // while(temp != NULL){
+        //     ListNode* front = temp->next;
+        //     temp->next = prev;
+        //     prev = temp;
+        //     temp = front;
+        // }
+        // return prev;
+
+        if(head == NULL || head->next == NULL) return head;
+
+        ListNode* temp = reverseList(head->next);
+
+        ListNode* front = head->next;
+
+        front->next = head;
+        head->next = NULL;
+        return temp;
 
     }
 };
