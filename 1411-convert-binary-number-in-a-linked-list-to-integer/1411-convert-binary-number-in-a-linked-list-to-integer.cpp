@@ -33,6 +33,23 @@ public:
     //     return head;
     // }
 
+    // Reversing the LL using the recursive approach T.C = O(N), S.C = O(1);
+    // ListNode* reverseList(ListNode* head){
+        
+    //     if(head == NULL || head->next == NULL){
+    //         return head;
+    //     }
+
+    //     ListNode* newHead = reverseList(head->next);
+    //     ListNode* front = head->next;
+
+    //     front->next = head;
+    //     head->next = NULL;
+
+    //     return newHead;
+        
+    // }
+
     ListNode* reverseList(ListNode* head){
         ListNode* temp = head, *prev = NULL;
 
