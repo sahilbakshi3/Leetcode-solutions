@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
@@ -63,4 +65,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
