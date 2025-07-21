@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0983-validate-stack-sequences](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0983-validate-stack-sequences) |
@@ -113,8 +114,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
