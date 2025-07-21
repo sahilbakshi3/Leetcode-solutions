@@ -90,17 +90,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0983-validate-stack-sequences) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1720-crawler-log-folder](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1720-crawler-log-folder) |
+| [3447-clear-digits](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0983-validate-stack-sequences](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0983-validate-stack-sequences) |
 | [2058-concatenation-of-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
+| [3447-clear-digits](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3447-clear-digits) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1720-crawler-log-folder](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1720-crawler-log-folder) |
+| [3447-clear-digits](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
