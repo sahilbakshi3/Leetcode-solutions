@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
 | ------- |
@@ -145,6 +146,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
