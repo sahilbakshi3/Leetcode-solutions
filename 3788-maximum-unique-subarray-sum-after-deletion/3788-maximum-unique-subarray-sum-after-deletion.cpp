@@ -1,21 +1,6 @@
 class Solution {
 public:
     int maxSum(vector<int>& nums) {
-        // unordered_set<int> st;
-
-        // int sum = 0, neg = INT_MIN;
-
-        // for(auto it: nums){
-        //     if(it <= 0){
-        //         neg = max(neg, sum);
-        //     }
-        //     else if(!st.count(it)){
-        //         sum += it;
-        //         st.insert(it);
-        //     }
-        // }
-        // return sum == 0 ? neg : sum;
-
         unordered_set<int> st;
 
         int sum = 0;
