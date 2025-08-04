@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0978-valid-mountain-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [1185-find-in-mountain-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1185-find-in-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
