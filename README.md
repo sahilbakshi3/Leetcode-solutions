@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
