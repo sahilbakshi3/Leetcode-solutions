@@ -1,0 +1,23 @@
+class Solution {
+public:
+    int diagonalSum(vector<vector<int>>& mat) {        
+        int row = 0;
+
+        auto lambda = [&](int sum, vector<int> &temp){
+            sum += temp[row];
+
+            if(row != temp.size() - row -1){
+                sum += temp[temp.size() - row - 1];
+            }
+
+            row++;
+
+            return sum;
+        };
+
+
+        int res = accumulate(mat.begin(), mat.end(), 0, lambda);
+
+        return res;
+    }
+};
