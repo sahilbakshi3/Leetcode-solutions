@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0292-nim-game](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -451,4 +452,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
