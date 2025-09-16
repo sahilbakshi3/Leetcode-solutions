@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1168-duplicate-zeros) |
 | [1185-find-in-mountain-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1185-find-in-mountain-array) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
