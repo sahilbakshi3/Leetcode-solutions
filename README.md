@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0039-combination-sum) |
+| [0049-group-anagrams](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0344-reverse-string) |
