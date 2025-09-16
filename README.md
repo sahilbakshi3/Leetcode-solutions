@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2727-number-of-senior-citizens](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2727-number-of-senior-citizens) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3582-find-indices-of-stable-mountains](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3582-find-indices-of-stable-mountains) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
+| [2727-number-of-senior-citizens](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3379-score-of-a-string](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3447-clear-digits) |
