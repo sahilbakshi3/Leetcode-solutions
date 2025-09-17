@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0498-diagonal-traverse](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0605-can-place-flowers](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [1448-maximum-69-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Interactive
