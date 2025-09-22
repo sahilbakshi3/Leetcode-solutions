@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1428-jump-game-iii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1428-jump-game-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1677-matrix-diagonal-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1720-crawler-log-folder](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1720-crawler-log-folder) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2756-buy-two-chocolates](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2756-buy-two-chocolates) |
