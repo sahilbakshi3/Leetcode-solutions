@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1666-make-the-string-great](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0890-lemonade-change) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2756-buy-two-chocolates](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2756-buy-two-chocolates) |
