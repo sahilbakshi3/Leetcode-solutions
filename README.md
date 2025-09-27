@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0830-largest-triangle-area](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1033-broken-calculator](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1033-broken-calculator) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -613,4 +615,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1961-maximum-ice-cream-bars](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
