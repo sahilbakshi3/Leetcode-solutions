@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1428-jump-game-iii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1428-jump-game-iii) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Memoization
 |  |
 | ------- |
