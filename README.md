@@ -400,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0904-leaf-similar-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0904-leaf-similar-trees) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0975-range-sum-of-bst) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1428-jump-game-iii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1428-jump-game-iii) |
 | [1731-even-odd-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1731-even-odd-tree) |
 | [2104-operations-on-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2104-operations-on-tree) |
