@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0978-valid-mountain-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0978-valid-mountain-array) |
 | [0983-validate-stack-sequences](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0983-validate-stack-sequences) |
 | [0985-bag-of-tokens](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0985-bag-of-tokens) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
