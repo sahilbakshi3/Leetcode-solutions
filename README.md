@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1677-matrix-diagonal-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1677-matrix-diagonal-sum) |
+| [1701-average-waiting-time](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1701-average-waiting-time) |
 | [1720-crawler-log-folder](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0983-validate-stack-sequences) |
+| [1701-average-waiting-time](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1701-average-waiting-time) |
 | [1806-count-of-matches-in-tournament](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
