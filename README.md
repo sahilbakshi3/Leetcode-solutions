@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1110-delete-nodes-and-return-forest](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1127-last-stone-weight](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1168-duplicate-zeros) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1110-delete-nodes-and-return-forest](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0904-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0975-range-sum-of-bst) |
+| [1110-delete-nodes-and-return-forest](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-leaf-similar-trees](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0904-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0975-range-sum-of-bst) |
+| [1110-delete-nodes-and-return-forest](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -522,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0975-range-sum-of-bst) |
+| [1110-delete-nodes-and-return-forest](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
