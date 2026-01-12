@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0904-leaf-similar-trees](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0904-leaf-similar-trees) |
