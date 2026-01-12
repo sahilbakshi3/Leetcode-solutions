@@ -12,27 +12,43 @@
 class Solution {
 public:
     
-    void inorder(TreeNode* root, vector<int> &res){
-        if(root == NULL) return ;
+    // void inorder(TreeNode* root, vector<int> &res){
+    //     if(root == NULL) return ;
 
-        inorder(root->left, res);
-        res.push_back(root->val);
-        inorder(root->right, res);
+    //     inorder(root->left, res);
+    //     res.push_back(root->val);
+    //     inorder(root->right, res);
+    // }
+
+    unordered_set<int> st;
+
+    bool dfs(TreeNode* root, int k){
+        if(root == NULL){
+            return false;
+        }
+
+        if(st.count(k - root->val)) return true;
+        st.insert(root->val);
+
+        return dfs(root->left, k) || dfs(root->right, k);
     }
     
     bool findTarget(TreeNode* root, int k) {
-        vector<int> res;
+        // vector<int> res;
 
-        inorder(root, res);
+        // inorder(root, res);
 
-        int i = 0, j = res.size()-1;
+        // int i = 0, j = res.size()-1;
 
-        while(i < j){
-            if(res[i] + res[j] == k) return true;
-            else if(res[i] + res[j] < k) i++;
-            else j--;
-        }
+        // while(i < j){
+        //     if(res[i] + res[j] == k) return true;
+        //     else if(res[i] + res[j] < k) i++;
+        //     else j--;
+        // }
 
-        return false;
+        // return false;
+
+        return dfs(root, k);
+
     }
 };
