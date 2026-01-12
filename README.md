@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1168-duplicate-zeros) |
 | [1185-find-in-mountain-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1185-find-in-mountain-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1266-minimum-time-visiting-all-points](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1428-jump-game-iii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1428-jump-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1033-broken-calculator) |
 | [1137-n-th-tribonacci-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1448-maximum-69-number) |
@@ -687,4 +689,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
