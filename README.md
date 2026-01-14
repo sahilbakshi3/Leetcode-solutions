@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1189-maximum-number-of-balloons](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1252-break-a-palindrome](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1252-break-a-palindrome) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1189-maximum-number-of-balloons](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
