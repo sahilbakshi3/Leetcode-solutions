@@ -589,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-delete-leaves-with-a-given-value](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2104-operations-on-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2104-operations-on-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2416-evaluate-boolean-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1428-jump-game-iii) |
 | [1731-even-odd-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1731-even-odd-tree) |
 | [2104-operations-on-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2104-operations-on-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Dynamic Programming
@@ -773,10 +775,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
