@@ -30,6 +30,24 @@ public:
         }
 
     }
+
+    void dfs(int row, int col, vector<vector<char>>& board){
+
+        if(row < 0 || row >= n || col < 0 || col >= m ||board[row][col] == '.'){
+            return ;
+        }
+
+        board[row][col] = '.';
+
+        int delrow[] = {-1, 0, 1, 0};
+        int delcol[] = {0, -1, 0, 1};
+
+        for(int i = 0; i< 4; i++){
+            dfs(row + delrow[i], col + delcol[i], board);
+        }
+
+    }
+
     
     int countBattleships(vector<vector<char>>& board) {
         n = board.size();
@@ -41,7 +59,8 @@ public:
             for(int j = 0; j< m; j++){
                 if(board[i][j] == 'X'){
                     cnt++;
-                    bfs(i, j, board);
+                    // bfs(i, j, board);
+                    dfs(i, j, board);
                 }
             }
         }
