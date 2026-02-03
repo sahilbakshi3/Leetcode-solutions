@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0695-max-area-of-island](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -614,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -698,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
@@ -780,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
