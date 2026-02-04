@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0542-01-matrix) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1013-fibonacci-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1013-fibonacci-number) |
@@ -756,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0494-target-sum) |
 | [1219-path-with-maximum-gold](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1219-path-with-maximum-gold) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
