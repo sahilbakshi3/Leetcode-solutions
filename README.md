@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0606-construct-string-from-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0680-valid-palindrome-ii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
