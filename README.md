@@ -772,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0494-target-sum) |
 | [1219-path-with-maximum-gold](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1219-path-with-maximum-gold) |
