@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0419-battleships-in-a-board](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0792-binary-search) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1127-last-stone-weight](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1127-last-stone-weight) |
@@ -739,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0419-battleships-in-a-board](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
