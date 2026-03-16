@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
