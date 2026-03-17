@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
@@ -809,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0190-reverse-bits) |
 | [0476-number-complement](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0868-binary-gap](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0868-binary-gap) |
