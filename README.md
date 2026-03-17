@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2594-minimum-time-to-repair-cars](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2594-minimum-time-to-repair-cars) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2727-number-of-senior-citizens) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2594-minimum-time-to-repair-cars](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2594-minimum-time-to-repair-cars) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Sorting
