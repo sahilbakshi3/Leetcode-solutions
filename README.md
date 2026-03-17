@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2058-concatenation-of-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2104-operations-on-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2104-operations-on-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2594-minimum-time-to-repair-cars](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2594-minimum-time-to-repair-cars) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1961-maximum-ice-cream-bars](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1961-maximum-ice-cream-bars) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2756-buy-two-chocolates](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2756-buy-two-chocolates) |
 | [3055-maximum-odd-binary-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3055-maximum-odd-binary-number) |
