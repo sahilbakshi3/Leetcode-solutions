@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2560-house-robber-iv](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2560-house-robber-iv) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2594-minimum-time-to-repair-cars](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2594-minimum-time-to-repair-cars) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1898-maximum-number-of-removable-characters](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2551-apply-operations-to-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2560-house-robber-iv](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2560-house-robber-iv) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2594-minimum-time-to-repair-cars](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2594-minimum-time-to-repair-cars) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1961-maximum-ice-cream-bars](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2563-count-the-number-of-fair-pairs](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2756-buy-two-chocolates](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2756-buy-two-chocolates) |
