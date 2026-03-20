@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3582-find-indices-of-stable-mountains](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3582-find-indices-of-stable-mountains) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Math
 |  |
@@ -791,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1677-matrix-diagonal-sum) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## String Matching
 |  |
