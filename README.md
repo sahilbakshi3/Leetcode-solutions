@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1254-number-of-closed-islands](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1266-minimum-time-visiting-all-points](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1428-jump-game-iii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1428-jump-game-iii) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1185-find-in-mountain-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -819,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1219-path-with-maximum-gold](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1677-matrix-diagonal-sum) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
