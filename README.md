@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0878-nth-magical-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0878-nth-magical-number) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0907-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0981-time-based-key-value-store) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0528-random-pick-with-weight](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0830-largest-triangle-area](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0830-largest-triangle-area) |
+| [0878-nth-magical-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0878-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1033-broken-calculator) |
