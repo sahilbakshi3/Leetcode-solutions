@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0498-diagonal-traverse) |
+| [0528-random-pick-with-weight](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0605-can-place-flowers) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0441-arranging-coins) |
+| [0528-random-pick-with-weight](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0528-random-pick-with-weight](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0830-largest-triangle-area](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
@@ -843,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0528-random-pick-with-weight](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0724-find-pivot-index](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 ## Bit Manipulation
 |  |
@@ -928,4 +932,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
