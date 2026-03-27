@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0611-valid-triangle-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -539,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0973-k-closest-points-to-origin](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -822,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
+| [0621-task-scheduler](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0890-lemonade-change](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0890-lemonade-change) |
