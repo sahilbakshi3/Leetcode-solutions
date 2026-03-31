@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2187-minimum-time-to-complete-trips](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2187-minimum-time-to-complete-trips](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
