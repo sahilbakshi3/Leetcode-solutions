@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1675-minimize-deviation-in-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1675-minimize-deviation-in-array) |
 | [1677-matrix-diagonal-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1701-average-waiting-time](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1701-average-waiting-time) |
 | [1720-crawler-log-folder](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1720-crawler-log-folder) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0973-k-closest-points-to-origin](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1127-last-stone-weight) |
+| [1675-minimize-deviation-in-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1675-minimize-deviation-in-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
@@ -859,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1675-minimize-deviation-in-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1675-minimize-deviation-in-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -1018,4 +1021,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Ordered Set
+|  |
+| ------- |
+| [1675-minimize-deviation-in-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1675-minimize-deviation-in-array) |
 <!---LeetCode Topics End-->
