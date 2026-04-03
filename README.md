@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3582-find-indices-of-stable-mountains](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3582-find-indices-of-stable-mountains) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
