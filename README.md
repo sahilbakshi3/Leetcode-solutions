@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1496-path-crossing](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1496-path-crossing) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1496-path-crossing](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1496-path-crossing) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1666-make-the-string-great](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1666-make-the-string-great) |
 | [1720-crawler-log-folder](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
