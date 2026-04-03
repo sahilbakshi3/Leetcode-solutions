@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1127-last-stone-weight](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1127-last-stone-weight) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1162-as-far-from-land-as-possible](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1168-duplicate-zeros](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1168-duplicate-zeros) |
 | [1185-find-in-mountain-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1185-find-in-mountain-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0981-time-based-key-value-store](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1143-longest-common-subsequence](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1252-break-a-palindrome](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1252-break-a-palindrome) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
