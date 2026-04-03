@@ -562,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3055-maximum-odd-binary-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3055-maximum-odd-binary-number) |
+| [3330-find-the-original-typed-string-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3330-find-the-original-typed-string-i) |
 | [3379-score-of-a-string](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
