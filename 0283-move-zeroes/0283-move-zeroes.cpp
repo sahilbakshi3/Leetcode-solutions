@@ -1,25 +1,18 @@
 class Solution {
 public:
-    void moveZeroes(vector<int>& arr) {
-        int n = arr.size();
+    void moveZeroes(vector<int>& nums) {
+        int n = nums.size();
+
+        int right = 0;
+
+        for(int left = 0; left < n; left++){
+            if(nums[left] != 0){
+                swap(nums[left], nums[right]);
+                right++;
+
+            }
 
 
-        for(int i = 0; i< n; i++){
-            if(arr[i] != 0){
-                continue;
-            }
-            else{
-                int j = i+1;
-                while(j < n){
-                    if(arr[j] == 0){
-                        j++;
-                    }
-                    else{
-                        swap(arr[i], arr[j]);
-                        break;
-                    }
-                }
-            }
         }
 
     }
