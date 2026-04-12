@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0844-backspace-string-compare](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0983-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0983-validate-stack-sequences](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0983-validate-stack-sequences) |
 | [1701-average-waiting-time](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1701-average-waiting-time) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0844-backspace-string-compare](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0981-time-based-key-value-store](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
