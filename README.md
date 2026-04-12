@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2560-house-robber-iv](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2560-house-robber-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2594-minimum-time-to-repair-cars](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2594-minimum-time-to-repair-cars) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2418-sort-the-people](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2540-minimum-common-value) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2551-apply-operations-to-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Binary Search
