@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0200-number-of-islands) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
