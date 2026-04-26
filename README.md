@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1675-minimize-deviation-in-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1675-minimize-deviation-in-array) |
@@ -933,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1428-jump-game-iii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1428-jump-game-iii) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2104-operations-on-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2104-operations-on-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -975,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1428-jump-game-iii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1428-jump-game-iii) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1731-even-odd-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1731-even-odd-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2104-operations-on-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2104-operations-on-tree) |
@@ -1091,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -1204,6 +1208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
