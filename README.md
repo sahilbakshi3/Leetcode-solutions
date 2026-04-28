@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2058-concatenation-of-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2513-minimize-the-maximum-of-two-arrays) |
@@ -1099,6 +1102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
