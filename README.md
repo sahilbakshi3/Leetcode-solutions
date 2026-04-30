@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1898-maximum-number-of-removable-characters](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [1898-maximum-number-of-removable-characters](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1961-maximum-ice-cream-bars](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1961-maximum-ice-cream-bars) |
@@ -1053,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1448-maximum-69-number) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1675-minimize-deviation-in-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1675-minimize-deviation-in-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1961-maximum-ice-cream-bars](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
