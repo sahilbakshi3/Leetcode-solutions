@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1898-maximum-number-of-removable-characters](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1898-maximum-number-of-removable-characters) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [1898-maximum-number-of-removable-characters](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1898-maximum-number-of-removable-characters) |
@@ -1113,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-detect-cycles-in-2d-grid](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1677-matrix-diagonal-sum) |
+| [1861-rotating-the-box](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1861-rotating-the-box) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
