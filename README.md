@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1898-maximum-number-of-removable-characters](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1914-cyclically-rotating-a-grid](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-validate-stack-sequences](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0983-validate-stack-sequences) |
 | [1701-average-waiting-time](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1701-average-waiting-time) |
 | [1806-count-of-matches-in-tournament](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1806-count-of-matches-in-tournament) |
+| [1914-cyclically-rotating-a-grid](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2058-concatenation-of-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2058-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
@@ -1116,6 +1118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1861-rotating-the-box](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1861-rotating-the-box) |
+| [1914-cyclically-rotating-a-grid](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1914-cyclically-rotating-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
