@@ -43,17 +43,44 @@ public:
     
     ListNode* mergeKLists(vector<ListNode*>& lists) {
 
-        if(lists.size() == 0){
-            return NULL;
+        priority_queue<pair<int, ListNode*>, vector<pair<int, ListNode*>>, greater<pair<int,ListNode*>>> pq;
+
+        for(int i = 0; i< lists.size(); i++){
+            if(lists[i]){
+                pq.push({lists[i]->val, lists[i]});
+            }
         }
 
-        ListNode* res = lists[0];
+        ListNode* dummy = new ListNode(-1);
 
-        for(int i = 1; i < lists.size(); i++){
-            res = merge(res, lists[i]);
+        ListNode* temp = dummy;
+
+        while(!pq.empty()){
+            auto it = pq.top();
+            pq.pop();
+
+            if(it.second->next){
+                pq.push({it.second->next->val, it.second->next});
+            }
+
+            temp->next = it.second;
+            temp = temp->next;
         }
 
-        return res;
+        return dummy->next;
+
+
+        // if(lists.size() == 0){
+        //     return NULL;
+        // }
+
+        // ListNode* res = lists[0];
+
+        // for(int i = 1; i < lists.size(); i++){
+        //     res = merge(res, lists[i]);
+        // }
+
+        // return res;
         
         // vector<int> arr;
 
