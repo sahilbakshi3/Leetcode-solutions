@@ -1325,4 +1325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0146-lru-cache) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
