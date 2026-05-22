@@ -926,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -1209,6 +1210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0476-number-complement) |
