@@ -1338,4 +1338,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0595-big-countries) |
+| [3436-find-valid-emails](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3436-find-valid-emails) |
 <!---LeetCode Topics End-->
