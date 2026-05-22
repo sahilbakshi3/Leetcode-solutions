@@ -1331,5 +1331,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0183-customers-who-never-order) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
