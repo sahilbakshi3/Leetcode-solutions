@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1813-maximum-erasure-value](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1861-rotating-the-box) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1898-maximum-number-of-removable-characters](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1898-maximum-number-of-removable-characters) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -949,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1813-maximum-erasure-value](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Depth-First Search
@@ -1118,6 +1122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1675-minimize-deviation-in-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1675-minimize-deviation-in-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1961-maximum-ice-cream-bars](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1961-maximum-ice-cream-bars) |
@@ -1202,6 +1207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3719-longest-balanced-subarray-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Bit Manipulation
