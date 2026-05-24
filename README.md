@@ -720,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2418-sort-the-people](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2470-removing-stars-from-a-string](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2470-removing-stars-from-a-string) |
+| [2490-circular-sentence](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2490-circular-sentence) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2727-number-of-senior-citizens](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2727-number-of-senior-citizens) |
