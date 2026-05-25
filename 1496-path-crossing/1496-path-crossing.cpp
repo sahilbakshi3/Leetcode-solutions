@@ -1,17 +1,25 @@
 class Solution {
 public:
     bool isPathCrossing(string path) {
-        map<pair<int, int>, bool> vis;
         int x = 0, y = 0;
 
-        for(auto it : path){
-            vis[{x,y}] = true;
+        unordered_set<string> st;
+        st.insert("0,0");
+
+        for(auto &it: path){
             if(it == 'N') y++;
             else if(it == 'S') y--;
             else if(it == 'E') x++;
-            else x--;
+            else if(it == 'W') x--;
 
-            if(vis[{x,y}]) return true;
+            string s = to_string(x) + ',' + to_string(y);
+
+            if(st.count(s)){
+                return true;
+            }
+
+            st.insert(s);
+
         }
 
         return false;
