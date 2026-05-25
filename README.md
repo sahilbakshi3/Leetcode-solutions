@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1051-height-checker) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1122-relative-sort-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1127-last-stone-weight](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1127-last-stone-weight) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1162-as-far-from-land-as-possible](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0981-time-based-key-value-store) |
 | [0997-find-the-town-judge](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
+| [1122-relative-sort-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1268-search-suggestions-system](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1268-search-suggestions-system) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -1289,6 +1292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Geometry
