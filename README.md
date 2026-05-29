@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2542-maximum-subsequence-score](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 | [2551-apply-operations-to-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2513-minimize-the-maximum-of-two-arrays) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3055-maximum-odd-binary-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3055-maximum-odd-binary-number) |
