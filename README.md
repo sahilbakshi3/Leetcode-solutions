@@ -573,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3055-maximum-odd-binary-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3055-maximum-odd-binary-number) |
+| [3099-harshad-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3099-harshad-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
