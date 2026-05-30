@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0075-sort-colors) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0189-rotate-array) |
