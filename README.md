@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3719-longest-balanced-subarray-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2833-furthest-point-from-origin) |
 | [3055-maximum-odd-binary-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3055-maximum-odd-binary-number) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3136-valid-word) |
 | [3330-find-the-original-typed-string-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3330-find-the-original-typed-string-i) |
 | [3379-score-of-a-string](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3379-score-of-a-string) |
