@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2373-largest-local-values-in-a-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2418-sort-the-people](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2418-sort-the-people) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2418-sort-the-people](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2418-sort-the-people) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
@@ -1056,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Depth-First Search
 |  |
 | ------- |
