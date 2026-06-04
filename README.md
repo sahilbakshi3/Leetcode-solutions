@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0792-binary-search) |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0825-friends-of-appropriate-ages](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0825-friends-of-appropriate-ages) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -898,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0658-find-k-closest-elements](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -1070,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1813-maximum-erasure-value](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
