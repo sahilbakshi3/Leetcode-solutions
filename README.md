@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0934-shortest-bridge](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [0941-sort-array-by-parity](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0917-boats-to-save-people](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0973-k-closest-points-to-origin](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0985-bag-of-tokens](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0985-bag-of-tokens) |
@@ -899,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -1281,6 +1284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0890-lemonade-change](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0917-boats-to-save-people) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0985-bag-of-tokens) |
 | [1018-largest-perimeter-triangle](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1033-broken-calculator](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1033-broken-calculator) |
