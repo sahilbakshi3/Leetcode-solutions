@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1675-minimize-deviation-in-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1675-minimize-deviation-in-array) |
 | [1677-matrix-diagonal-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1677-matrix-diagonal-sum) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -1087,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1813-maximum-erasure-value](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1813-maximum-erasure-value) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -1356,6 +1360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3719-longest-balanced-subarray-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
