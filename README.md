@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1701-average-waiting-time](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1701-average-waiting-time) |
 | [1720-crawler-log-folder](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -1263,6 +1264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2560-house-robber-iv](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2560-house-robber-iv) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
