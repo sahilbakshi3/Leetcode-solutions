@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2542-maximum-subsequence-score](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
@@ -961,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2285-maximum-total-importance-of-roads](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2542-maximum-subsequence-score](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -1332,6 +1334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2285-maximum-total-importance-of-roads](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2439-minimize-maximum-of-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2542-maximum-subsequence-score](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2542-maximum-subsequence-score) |
 | [2560-house-robber-iv](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2560-house-robber-iv) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
