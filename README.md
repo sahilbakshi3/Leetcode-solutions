@@ -631,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-random-pick-with-weight](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0528-random-pick-with-weight) |
 | [0539-minimum-time-difference](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0633-sum-of-square-numbers](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0670-maximum-swap](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0830-largest-triangle-area](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0830-largest-triangle-area) |
 | [0878-nth-magical-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0878-nth-magical-number) |
 | [0973-k-closest-points-to-origin](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -1299,6 +1300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0670-maximum-swap](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0680-valid-palindrome-ii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0890-lemonade-change](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0890-lemonade-change) |
