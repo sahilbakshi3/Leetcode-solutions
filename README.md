@@ -808,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -1282,6 +1283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -1476,6 +1478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0494-target-sum) |
 | [1219-path-with-maximum-gold](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1219-path-with-maximum-gold) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
