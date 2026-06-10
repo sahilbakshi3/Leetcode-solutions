@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -812,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -1169,6 +1171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0101-symmetric-tree) |
@@ -1389,6 +1392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -1487,6 +1491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0494-target-sum) |
