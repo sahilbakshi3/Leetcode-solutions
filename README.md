@@ -690,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3830-find-closest-person) |
@@ -1050,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2416-evaluate-boolean-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1230,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
