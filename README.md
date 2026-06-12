@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0867-transpose-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0877-stone-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0896-monotonic-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0896-monotonic-array) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0670-maximum-swap) |
 | [0830-largest-triangle-area](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0830-largest-triangle-area) |
+| [0877-stone-game](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0877-stone-game) |
 | [0878-nth-magical-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0878-nth-magical-number) |
 | [0973-k-closest-points-to-origin](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1013-fibonacci-number) |
@@ -1313,6 +1315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -1534,6 +1537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0877-stone-game) |
 ## Number Theory
 |  |
 | ------- |
