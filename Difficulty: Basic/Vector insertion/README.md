@@ -1,0 +1,5 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/vector-insertion/1?page=1&difficulty=Basic&status=unsolved&sortBy=accuracy">Vector insertion</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color);"><p><span style="font-size: 18px;">Given an array <strong>arr[] </strong>of size n containing integers, insert its elements into a vector in the same order as they appear in arr and return the vector. The driver code will print the returned vector to verify the solution.</span></p>
+<p><span style="font-size: 18px;"><strong>Examples :</strong> <strong> </strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>n = 4, arr[] = [1, 2, 3, 4]
+<strong>Output: </strong>1 2 3 4 </span></pre>
+<pre><span style="font-size: 18px;"><strong>Input:</strong> n = 3, arr[]= [2, 6, 1]<br><strong>Output:</strong> 2 6 1</span></pre></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>STL</code>&nbsp;
