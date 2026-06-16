@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -1194,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1491,6 +1493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2574-left-and-right-sum-differences](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3719-longest-balanced-subarray-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Bit Manipulation
 |  |
