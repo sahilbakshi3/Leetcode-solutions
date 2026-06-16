@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3024-type-of-triangle](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3151-special-array-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3151-special-array-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1198,6 +1199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3206-alternating-groups-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3206-alternating-groups-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
@@ -1521,6 +1523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Backtracking
 |  |
