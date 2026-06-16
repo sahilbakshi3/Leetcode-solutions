@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -1196,6 +1198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1547,6 +1550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Brainteaser
 |  |
@@ -1563,6 +1567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0258-add-digits) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2513-minimize-the-maximum-of-two-arrays) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Bucket Sort
 |  |
 | ------- |
