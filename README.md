@@ -810,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3447-clear-digits](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3447-clear-digits) |
+| [3612-process-string-with-special-operations-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3838-weighted-word-mapping](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## String
@@ -918,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3612-process-string-with-special-operations-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3838-weighted-word-mapping](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
