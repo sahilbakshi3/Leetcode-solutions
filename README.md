@@ -1341,6 +1341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -1521,6 +1522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0389-find-the-difference) |
