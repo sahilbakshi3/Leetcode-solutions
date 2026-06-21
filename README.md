@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1051-height-checker) |
+| [1052-grumpy-bookstore-owner](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1110-delete-nodes-and-return-forest](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1110-delete-nodes-and-return-forest) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1122-relative-sort-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1122-relative-sort-array) |
@@ -1194,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1052-grumpy-bookstore-owner](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1208-get-equal-substrings-within-budget](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
