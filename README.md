@@ -1688,6 +1688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1075-project-employees-i](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1075-project-employees-i) |
+| [1251-average-selling-price](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1251-average-selling-price) |
 | [3436-find-valid-emails](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3436-find-valid-emails) |
 | [3570-find-books-with-no-available-copies](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/3570-find-books-with-no-available-copies) |
 ## Monotonic Queue
