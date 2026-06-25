@@ -1379,6 +1379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1575-count-all-possible-routes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1575-count-all-possible-routes) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2439-minimize-maximum-of-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
+| [2466-count-ways-to-build-good-strings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2466-count-ways-to-build-good-strings) |
 | [2560-house-robber-iv](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2560-house-robber-iv) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
