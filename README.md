@@ -895,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1400-construct-k-palindrome-strings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1400-construct-k-palindrome-strings) |
+| [1416-restore-the-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1416-restore-the-array) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1496-path-crossing](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1496-path-crossing) |
@@ -1367,6 +1368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
+| [1416-restore-the-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1416-restore-the-array) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2439-minimize-maximum-of-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
