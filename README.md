@@ -1362,6 +1362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0688-knight-probability-in-chessboard](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0688-knight-probability-in-chessboard) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0877-stone-game) |
