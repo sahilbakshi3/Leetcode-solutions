@@ -1391,6 +1391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1162-as-far-from-land-as-possible](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1162-as-far-from-land-as-possible) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1416-restore-the-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1416-restore-the-array) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1575-count-all-possible-routes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1575-count-all-possible-routes) |
