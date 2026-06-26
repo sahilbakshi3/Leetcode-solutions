@@ -761,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0342-power-of-four) |
+| [0894-all-possible-full-binary-trees](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
@@ -1085,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0894-all-possible-full-binary-trees](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 | [0904-leaf-similar-trees](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0904-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0975-range-sum-of-bst) |
@@ -1154,6 +1156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0894-all-possible-full-binary-trees](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 | [0904-leaf-similar-trees](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0904-leaf-similar-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0975-range-sum-of-bst) |
@@ -1379,6 +1382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0877-stone-game) |
+| [0894-all-possible-full-binary-trees](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1035-uncrossed-lines](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1035-uncrossed-lines) |
@@ -1405,6 +1409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0894-all-possible-full-binary-trees](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1575-count-all-possible-routes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1575-count-all-possible-routes) |
