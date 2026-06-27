@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-operations-on-tree](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2104-operations-on-tree) |
 | [2109-adding-spaces-to-a-string](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2126-destroying-asteroids](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2126-destroying-asteroids) |
+| [2140-solving-questions-with-brainpower](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -1396,6 +1397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1575-count-all-possible-routes](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1575-count-all-possible-routes) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2140-solving-questions-with-brainpower](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [2439-minimize-maximum-of-array](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2439-minimize-maximum-of-array) |
 | [2466-count-ways-to-build-good-strings](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2466-count-ways-to-build-good-strings) |
 | [2560-house-robber-iv](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/2560-house-robber-iv) |
