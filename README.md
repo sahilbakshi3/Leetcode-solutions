@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0929-unique-email-addresses](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [0941-sort-array-by-parity](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -1385,6 +1386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0894-all-possible-full-binary-trees) |
 | [0918-maximum-sum-circular-subarray](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0931-minimum-falling-path-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1035-uncrossed-lines](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1035-uncrossed-lines) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -1503,6 +1505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
