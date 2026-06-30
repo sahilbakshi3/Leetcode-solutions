@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1428-jump-game-iii](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1428-jump-game-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -1230,6 +1231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1652-defuse-the-bomb) |
@@ -1569,6 +1571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1208-get-equal-substrings-within-budget](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sahilbakshi3/Leetcode-solutions/tree/master/1838-frequency-of-the-most-frequent-element) |
